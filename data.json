@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=709&q=80",
+      "name": "Paulo Beckman",
+      "birth": 941241600000,
+      "gender": "F",
+      "services": "natação, musculação, crossfit",
+      "created_at": 1592084651931
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=709&q=80",
+      "name": "Roberto Silva",
+      "birth": 341712000000,
+      "gender": "M",
+      "services": "musculação, crossfit",
+      "created_at": 1592084699764
+    }
+  ]
+}
