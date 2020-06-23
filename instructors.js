@@ -5,7 +5,19 @@ const Intl = require('intl')
 
 //index
 exports.index = function(req,res){   
-    return res.render("instructors/index", {instructors: data.instructors} )
+
+    let instructors = data.instructors.map(instructor => {
+        const services = instructor.services.split(",")
+
+        const newinstructor = {
+            ...instructor,
+            services: services
+        }
+
+        return newinstructor
+    })
+
+    return res.render("instructors/index", {instructors} )
 }
 
 //create
