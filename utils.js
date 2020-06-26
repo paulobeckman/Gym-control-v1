@@ -26,6 +26,18 @@ module.exports ={
             iso: (`${year}-${month}-${day}`),
             birthDay: `${day}/${month}`
         }
+    },
+    bloodType: function(value){
+        switch(value){
+            case("A1"): return "A+"
+            case("A0"): return "A-"
+            case("B1"): return "B+"
+            case("B0"): return "A-"
+            case("AB1"): return "AB+"
+            case("AB0"): return "AB-"
+            case("B1"): return "B+"
+            case("B0"): return "B-"
+        }
     }
 
 }
