@@ -60,13 +60,13 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="Gym-control" title="#Gym-control" src="./github-assets/projeto3.gif" width="800px">
+ <img alt="Gym-control" title="#Gym-control" src="./github-assets/projeto4.gif" width="800px">
 
   <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas1.png" width="400px">
 
   <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas2.png" width="400px">
   
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas2.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas3.png" width="400px">
   
 </p>
 
