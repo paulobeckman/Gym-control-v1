@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚀 Gym Control 🚀
+	🏋‍♂ Gym Control 🏋‍♀
 </h4>
 
 <p align="center">
@@ -30,7 +30,26 @@
 
 ## 💻 Sobre o projeto
 
+🏋‍♂Gym Control - é um sistema de cadastro de Instrutores e Membros, afim de ter um melhor controle sobre as pessoas de uma academia.
 
+Os Instrutores poderão se cadastrar na plataforma web enviando:
+- url de uma imagem 
+- seu nome
+- data de nascimento
+- sexo
+- área de atuação
+
+Os Membros poderão se cadastrar na plataforma web enviando:
+- url de uma imagem 
+- seu nome
+- email
+- data de nascimento
+- sexo
+- tipo sanguíneo
+- peso
+- altura
+
+Além de fazer cadastro o sistema permite visualizar os dados, fazer edição e deletar. 
 
 
 Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
@@ -56,13 +75,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Java Script][js]
 - [CSS][CSS]
 - [HTML][HTML]
+- [Nunjucks][Nunjucks]
+- [Unsplash Source][API]
 
 
 ## 🚀 Como rodar este projeto
  
 Podemos considerar este projeto como sendo divido em duas partes:
-1. Back End (arquivos server.js, data.js e pasta public) 
-2. Front End (pasta views)
+1. Back End (arquivos server.js, routes.js, data.js, data.json, utils.js e pasta controllers) 
+2. Front End (pasta views e pasta public)
 
 💡O Front End presisa que o Back End esteja sendo executado para funcionar.
 
@@ -76,10 +97,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/paulobeckman/web-information-and-videos-v2.git
+$ git clone https://github.com/paulobeckman/Gym-control.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd web-information-and-videos-v2
+$ cd Gym-control
 
 # Instale as dependências
 $ npm install
@@ -87,7 +108,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-# O servidor inciará na porta:5000 - acesse http://localhost:5000
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 ```
 
 
@@ -107,3 +128,5 @@ Feito por Paulo Beckman 👋🏽 [Entre em contato!](https://www.linkedin.com/in
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [HTML]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [v1]: https://github.com/paulobeckman/web-information-and-videos
+[Nunjucks]: https://www.npmjs.com/package/nunjucks
+[API]: https://source.unsplash.com/
