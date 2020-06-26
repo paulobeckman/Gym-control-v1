@@ -1,7 +1,7 @@
 <h1 align="center">
     Gym Control
 </h1>
-
+ 
 <h4 align="center"> 
 	🏋‍♂ Gym Control 🏋‍♀
 </h4>
