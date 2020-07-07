@@ -21,15 +21,6 @@
       "gender": "F",
       "services": "natação, musculação",
       "created_at": 1593006872272
-    },
-    {
-      "id": 2,
-      "avatar_url": "https://images.unsplash.com/photo-1516992654410-9309d4587e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "name": "Roberto Silva",
-      "birth": 625708800000,
-      "gender": "M",
-      "services": "ciclismo, corrida",
-      "created_at": 1593181809229
     }
   ]
 }
