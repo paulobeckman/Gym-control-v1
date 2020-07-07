@@ -17,7 +17,7 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/rocketseat-courses/commits/master">
+  <a href="https://github.com/paulobeckman/Gym-control/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Gym-control">
   </a>
 
@@ -133,6 +133,5 @@ Feito por Paulo Beckman 👋🏽 [Entre em contato!](https://www.linkedin.com/in
 [js]: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
 [CSS]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [HTML]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-[v1]: https://github.com/paulobeckman/web-information-and-videos
 [Nunjucks]: https://www.npmjs.com/package/nunjucks
 [API]: https://source.unsplash.com/
