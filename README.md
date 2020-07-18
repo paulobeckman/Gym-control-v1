@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Gym-control?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Gym-control">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Gym-control-v1">
 
   	
   <a href="https://www.linkedin.com/in/paulobeckman/">
@@ -17,13 +17,13 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/Gym-control/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Gym-control">
+  <a href="https://github.com/paulobeckman/Gym-control-v1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Gym-control-v1">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/paulobeckman/Gym-control/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Gym-control?style=social">
+   <a href="https://github.com/paulobeckman/Gym-control-v1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Gym-control-v1?style=social">
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Os Membros poderão se cadastrar na plataforma web enviando:
 Além de fazer cadastro o sistema permite visualizar os dados, fazer edição e deletar. 
 
 
-Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido modulo 04 no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 "O [LaunchBase](lb) é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento que permitirão construir as melhores aplicações e ter acesso às melhores oportunidades como programador." - Rocketseat
 
 
@@ -60,15 +60,15 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="Gym-control" title="#Gym-control" src="./github-assets/projeto5.gif" width="800px">
+ <img alt="Gym-control-v1" title="#Gym-control" src="./github-assets/projeto5.gif" width="800px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas1.png" width="800px">
+  <img alt="Gym-control-v1" title="#Gym-control" src="./github-assets/paginas1.png" width="800px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas2.png" width="800px">
+  <img alt="Gym-control-v1" title="#Gym-control" src="./github-assets/paginas2.png" width="800px">
   
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas3.png" width="800px">
+  <img alt="Gym-control-v1" title="#Gym-control" src="./github-assets/paginas3.png" width="800px">
   
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas4.png" width="800px">
+  <img alt="Gym-control-v1" title="#Gym-control" src="./github-assets/paginas4.png" width="800px">
   
   
 </p>
