@@ -5,7 +5,7 @@
 <h4 align="center"> 
 	🏋‍♂ Gym Control 🏋‍♀
 </h4>
-
+ 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Gym-control?color=%2304D361">
 
